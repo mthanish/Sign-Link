@@ -1,0 +1,11 @@
+SpeechRecognition
+pyaudio
+pipwin
+opencv-python
+mediapipe
+numpy
+pandas
+scikit-learn
+pyttsx3
+speechrecognition
+streamlit
