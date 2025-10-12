@@ -1,5 +1,5 @@
 # Data files
-data_processing/Indian/
+data_processing/Indian
 data_processing/isl_landmarks.csv
 data_processing/isl_model.pkl
 
