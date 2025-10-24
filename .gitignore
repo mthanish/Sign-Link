@@ -46,3 +46,5 @@ wheels/
 .vscode/
 *.swp
 *.swo
+
+sign_images/
